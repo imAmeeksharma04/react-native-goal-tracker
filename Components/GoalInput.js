@@ -14,6 +14,7 @@ function GoalInput(props) {
     }
 
 
+
     return <View style={styles.inputContainer}>
         <TextInput
             style={styles.textInput}
